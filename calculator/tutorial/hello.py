@@ -1,0 +1,2 @@
+x='niket'
+print(x)
